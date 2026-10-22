@@ -1,0 +1,8 @@
+# Global Agent Rules
+
+- Language: Traditional Chinese 
+- Code Style: Clean, functional, modular.
+- Response Format:
+  1. Direct solution / core code block.
+  2. Brief breakdown of key changes using bullet points.
+- Error Handling: Always handle edge cases and log errors clearly.
